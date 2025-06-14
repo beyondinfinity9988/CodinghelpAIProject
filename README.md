@@ -50,5 +50,5 @@ A full-stack AI-powered web app that generates coding MCQs (Multiple Choice Ques
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/.git
-cd coding-challenge-generator
+git clone https://github.com/beyondinfinity9988/CodinghelpAIProject.git
+

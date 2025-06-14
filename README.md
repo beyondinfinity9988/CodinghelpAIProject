@@ -41,7 +41,8 @@ A full-stack AI-powered web app that generates coding MCQs (Multiple Choice Ques
 ## 📸 Screenshots
 
 > coming..
-> 
+> ![image](https://github.com/user-attachments/assets/b5f6b49f-d8ad-4ff5-8133-7631e30bfa04)
+
 
 ---
 
